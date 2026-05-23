@@ -1,0 +1,71 @@
+Developed an interactive Power BI Contact Center Performance Dashboard to monitor and analyze operational KPIs such as call volume, SLA, PCA, AHT, abandoned calls, and agent performance. The dashboard provides a centralized view of contact center operations, enabling stakeholders to track productivity, service quality, and customer experience effectively.
+
+The report includes multiple analytical pages with dynamic filters, KPI tracking, and trend analysis for better operational decision-making.
+
+🎯 Objective
+To monitor contact center operational performance
+To analyze inbound call trends and service levels
+To track agent and queue-wise performance metrics
+To improve decision-making through interactive reporting
+
+📊 Dashboard Features
+
+🔢 Key Metrics (KPIs)
+Calls Offered
+Answered Calls
+Answered in SLA
+PCA %
+SLA %
+Inbound AHT
+Abandoned Calls %
+
+📈 Visualizations Implemented
+📞 Inbound Contact Volume Overview
+Daily inbound call trend analysis
+Calls offered vs answered calls comparison
+SLA and PCA performance tracking
+
+⏱️ Inbound Average Handle Time Breakdown
+IB AHT monitoring
+Average Talk Time
+Average Hold Time
+Average Wrap Time
+
+📉 Abandoned Calls Analysis
+Abandoned calls trend
+Abandonment rate % monitoring
+
+📊 Queue-wise Performance Analysis
+IB Talk %, Hold %, and Wrap % by Queue
+Queue-level operational insights
+
+📋 Performance Summary Table
+Department-wise KPI tracking
+Daily operational performance analysis
+SLA & resolved rate monitoring
+
+🎛️ Interactive Filters
+Date Selection
+Department Filter
+LOB Filter
+Queue Filter
+
+🛠️ Tools & Technologies
+Power BI Desktop
+Power Query (ETL & Data Transformation)
+DAX (Measures & KPI Calculations)
+SQL (Data Extraction & Validation)
+
+🔍 Key Insights
+Identified peak inbound call periods
+Tracked SLA and PCA performance trends
+Monitored abandonment rate fluctuations
+Analyzed queue-wise operational efficiency
+Improved visibility into contact center KPIs
+📸 Dashboard Preview
+
+
+📂 Project Files
+📊 PwC Dashboard (.pbix)
+🖼️ Dashboard Screenshots
+📁 Dataset / SQL Source
